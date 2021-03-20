@@ -2,7 +2,7 @@
 Dis is de Holy Manjawa Poblek Lekenke.
 
 ```
-> Manjawa License
+> Manjawa Lekenke
 
 Copyhek 9999 [user]
 
